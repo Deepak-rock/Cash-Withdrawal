@@ -1,22 +1,22 @@
 /* Write your CSS here */
-.denomination-item{
-    list-style-type: none;
-    width: 48%;
+.denomination-item {
+  list-style-type: none;
+  width: 48%;
 }
-.amount-button{
-    background-color: #382f5a;
-    border: 1px solid #c4c4c4;
-    padding: 8px 0;
-    margin: 10px 0;
-    width: 100%;
-    font-size: 32px;
-    font-family: 'Roboto';
-    font-weight: 600;
-    border-radius:5px;
-    color: #c4c4c4;
+.amount-button {
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  padding: 8px 0;
+  margin: 10px 0;
+  width: 100%;
+  font-size: 32px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  border-radius: 5px;
+  color: #c4c4c4;
 }
 @media screen and (max-width: 768px) {
-    .amount-button{
-        font-size: 22px;
-    }
+  .amount-button {
+    font-size: 22px;
+  }
 }
